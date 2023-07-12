@@ -1,8 +1,5 @@
 import aws_lambda_helper as lh
 
-def test():
-    print("hello")
-
 def lambda_city_updater(host, user, password, api_aerodatabox):
     schema="Gans"
     
