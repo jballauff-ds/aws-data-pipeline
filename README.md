@@ -13,7 +13,7 @@ Alternatively, you can set up the project on your [local machine](#run-locally).
 ## Setup
 Clone the repository to your local machine:
 
-`git clone https://github.com/Ip1oneerI/aws-data-pipeline`
+`git clone https://github.com/Ip1oneerI/aws-data-pipeline.git`
 
 - Set up your AWS credentials and ensure you have the necessary permissions to create and manage AWS resources.
 
@@ -99,7 +99,7 @@ def lambda_handler(event, context):
 If you don't want to run on AWS, you can install and set up a local MySQL server on your machine. Refer to the MySQL documentation [here](https://dev.mysql.com/doc/mysql-getting-started/en/).
 
 ## Setup
-- Clone the repository to your local machine: `git clone https://github.com/Ip1oneerI/aws-data-pipeline`
+- Clone the repository to your local machine: `git clone https://github.com/Ip1oneerI/aws-data-pipeline.git`
 - Install the necessary dependencies by running `pip install -r requirements.txt` or set up a virtual environment.
 - Execute the `database_script.sql` to set up the schema and necessary tables on your local instance.
 - To insert some city data, add the city names to the `name` column in the `cities` table:
