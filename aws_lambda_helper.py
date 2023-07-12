@@ -1,7 +1,7 @@
-import mysql.connector# add layer
-from bs4 import BeautifulSoup # add layer
-import requests # add layer
-import re # add layer
+import mysql.connector
+from bs4 import BeautifulSoup
+import requests
+import re
 from datetime import datetime, timedelta
 import pytz
 
