@@ -9,8 +9,7 @@ You also need an AWS account to run the project in the cloud.
 
 __WARNING:__ Free tier options are available for AWS, but costs may occur when choosing the wrong payment plan or exceeding limits. __I am not responsible for any costs.__
 
-Alternatively, you can set up the project on your local machine (see "Run Locally" section).
-
+Alternatively, you can set up the project on your [local machine](#run-locally).
 ## Setup
 Clone the repository to your local machine:
 
